@@ -1,0 +1,27 @@
+{
+  "name": "graveServer",
+  "version": "0.0.0",
+  "description": "This is simple grave server",
+  "main": "graveServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IgorPet/graveServer.git"
+  },
+  "keywords": [
+    "grave"
+  ],
+  "author": "Igor Petrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorPet/graveServer/issues"
+  },
+  "homepage": "https://github.com/IgorPet/graveServer",
+  "dependencies": {
+    "jayson": "~1.0.11",
+    "vkontakte": "~0.3.0",
+    "jsonschema": "~0.4.0"
+  }
+}

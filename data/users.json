@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "vk_240335373",
+        "data" : {
+            "access_token": "dabd506d046fdde0c97efb5184a2287db6772add1f45d4b83bb3a26400cf48d75d5f37a14745149a4721d",
+            "expired": null,
+            "terminalId": "4671384676481",
+            "terminalStatus" : 0,
+            "socket" : null
+        }
+    },
+
+    {
+        "id" : "vk_535435455",
+        "data" : {
+            "access_token": "db076e4481a930c299a6373c90d4a750153720862941e3dsadasdasdasddasf9ba1f6729e1cbccf367d7d",
+            "expired": null,
+            "terminalId": "5345345534534",
+            "terminalStatus" : 0,
+            "socket" : null
+        }
+    }
+]
